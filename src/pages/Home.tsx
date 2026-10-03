@@ -2,7 +2,7 @@ import Hero from "@/components/home/Hero"; // ← without /home/
 import AboutPreview from "@/components/home/AboutPreview";
 import ServicesPreview from "@/components/home/ServicesPreview";
 import WhyUsPreview from "@/components/home/WhyUsPreview";
-// import FoundersSection from "@/components/home/FoundersSection";
+ import FoundersSection from "@/components/home/FoundersSection";
 import { Helmet } from "react-helmet-async";
 
 
@@ -28,7 +28,7 @@ const Home = () => (
     <Hero />
     <AboutPreview />
     <WhyUsPreview />
-    {/* <FoundersSection /> */}
+     <FoundersSection /> 
     <ServicesPreview />
     {/* <WhyUs /> */}
     {/* <ContactCTA /> */}

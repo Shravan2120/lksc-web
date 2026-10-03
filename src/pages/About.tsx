@@ -1,5 +1,5 @@
 import Navbar from "@/components/navbar";
-// import FoundersSection from "@/components/home/FoundersSection";
+ import FoundersSection from "@/components/home/FoundersSection";
 import { motion } from "framer-motion";
 import {
   Shield,
@@ -223,7 +223,7 @@ const About = () => (
     </section>
 
     {/* Founders */}
-    {/* <FoundersSection /> */}
+     <FoundersSection />
 
     {/* Certifications */}
 {/*     <section className="py-20 bg-primary">
