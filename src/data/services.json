@@ -1,0 +1,508 @@
+{
+  "services": [
+    {
+      "id": "incorporation",
+      "icon": "Building2",
+      "label": "Incorporation Of Company / Business Formation",
+      "shortLabel": "Incorporation",
+      "tagline": "Start Right. Build Strong.",
+      "intro": "We provide end-to-end company incorporation and business formation services across all entity types in India. From name reservation to post-incorporation compliance setup, we ensure your business is established on a legally sound footing.",
+      "sections": [
+        {
+          "heading": "Types of Business Entities",
+          "items": [
+            "Private Limited Company (Pvt. Ltd.)",
+            "Public Limited Company",
+            "Limited Liability Partnership (LLP)",
+            "One Person Company (OPC)",
+            "Section 8 (Non-Profit) Company",
+            "Producer Company",
+            "Nidhi Company"
+          ]
+        },
+        {
+          "heading": "Our Process",
+          "items": [
+            "Name availability check & reservation via RUN/RUN-LLP",
+            "Drafting of Memorandum & Articles of Association (MOA/AOA)",
+            "Obtaining Digital Signature Certificate (DSC) & Director Identification Number (DIN)",
+            "Filing SPICe+, AGILE-PRO forms with MCA",
+            "Obtaining Certificate of Incorporation (COI)",
+            "PAN, TAN, GST, EPFO & ESIC registration",
+            "Opening of bank account assistance",
+            "Post-incorporation compliance calendar setup"
+          ]
+        },
+        {
+          "heading": "Why It Matters",
+          "items": [
+            "Proper incorporation safeguards personal liability",
+            "Enables access to formal financing and investment",
+            "Ensures eligibility for government schemes & contracts",
+            "Establishes credibility with clients and partners"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company-law",
+      "icon": "Scale",
+      "label": "Company Law Services",
+      "shortLabel": "Company Law",
+      "tagline": "Compliance Made Simple.",
+      "intro": "Our company law services encompass all secretarial and compliance requirements under the Companies Act, 2013. We help companies maintain statutory registers, file requisite forms with the ROC, and manage board and shareholder meetings.",
+      "sections": [
+        {
+          "heading": "Annual Compliance",
+          "items": [
+            "Annual Return (MGT-7 / MGT-7A)",
+            "Financial Statement filing (AOC-4 / XBRL)",
+            "Director KYC (DIR-3 KYC)",
+            "Auditor Appointment (ADT-1)",
+            "Maintenance of Statutory Registers (MGT-1, SH-2, MBP-1, etc.)",
+            "Secretarial Audit Report (MR-3 for applicable companies)"
+          ]
+        },
+        {
+          "heading": "Event-Based Compliance",
+          "items": [
+            "Change in Registered Office (INC-22, INC-23)",
+            "Increase in Authorized Share Capital",
+            "Allotment of Shares (PAS-3, SH-7)",
+            "Transfer & Transmission of Shares",
+            "Change in Directors / Key Managerial Personnel",
+            "Appointment of Auditor / Company Secretary",
+            "Creation & Satisfaction of Charges (CHG-1, CHG-4)",
+            "Conversion of company type"
+          ]
+        },
+        {
+          "heading": "Advisory & Drafting",
+          "items": [
+            "Drafting of Board & Shareholder resolutions",
+            "Preparation of Notices, Agendas & Minutes",
+            "Secretarial Audit (applicable companies)",
+            "Legal opinions on Companies Act provisions",
+            "Compounding of offences & condonation of delay"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "corporate-restructuring",
+      "icon": "RefreshCw",
+      "label": "Corporate Restructuring",
+      "shortLabel": "Restructuring",
+      "tagline": "Transform. Consolidate. Grow.",
+      "intro": "Corporate restructuring is often necessary to improve efficiency, reduce debt, align business strategy, or facilitate expansion. We provide comprehensive secretarial and advisory support for all restructuring activities under the Companies Act and NCLT.",
+      "sections": [
+        {
+          "heading": "Restructuring Mechanisms",
+          "items": [
+            "Mergers & Amalgamations under Section 230-232",
+            "Demergers & Spin-offs",
+            "Slump Sale & Business Transfer",
+            "Acquisition of companies and subsidiaries",
+            "Capital reduction under Section 66",
+            "Buyback of securities (open market & tender offer)"
+          ]
+        },
+        {
+          "heading": "Secretarial Support",
+          "items": [
+            "Drafting of Scheme of Arrangement",
+            "Board and shareholder meeting facilitation",
+            "Filing with NCLT, ROC and SEBI (if listed)",
+            "Coordination with advocates, valuers & auditors",
+            "Stock exchange intimation & compliance",
+            "Post-merger integration compliance"
+          ]
+        },
+        {
+          "heading": "Strategic Advisory",
+          "items": [
+            "Identifying optimal restructuring structure",
+            "Tax efficiency analysis (in collaboration with tax advisors)",
+            "Regulatory impact assessment",
+            "Stakeholder communication strategy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "audit-certification",
+      "icon": "ClipboardCheck",
+      "label": "Audit & Certification",
+      "shortLabel": "Audit & Certification",
+      "tagline": "Certified Accuracy. Verified Compliance.",
+      "intro": "We offer a range of audit and certification services to ensure your company meets statutory obligations and is in good standing with regulatory authorities. Our certifications are relied upon by boards, investors, and regulators alike.",
+      "sections": [
+        {
+          "heading": "Secretarial Audit",
+          "items": [
+            "Secretarial Audit Report in Form MR-3",
+            "Applicable to listed companies and large unlisted public companies",
+            "Covers compliance under Companies Act, SCRA, SEBI regulations, FEMA, and sector-specific laws",
+            "Identification of non-compliances and recommendations",
+            "Annual secretarial compliance report for listed companies"
+          ]
+        },
+        {
+          "heading": "Other Certifications",
+          "items": [
+            "Certificate of Commencement of Business (INC-20A)",
+            "Diligence Report for creation of charges",
+            "Due Diligence Certificate for banks and financial institutions",
+            "MGT-8 Certificate (large companies)",
+            "PAS-6 (half yearly Reconciliation of Share Capital Audit Report)",
+            "Certification of e-forms filed with the ROC",
+            "No-Objection Certificates (NOCs) and Board Certificates"
+          ]
+        },
+        {
+          "heading": "Audit Support Services",
+          "items": [
+            "Preparation of compliance reports for statutory auditors",
+            "Internal audit support for secretarial matters",
+            "Audit trail maintenance for corporate actions",
+            "Liaison with regulatory bodies during audits"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sebi-listing",
+      "icon": "BarChart2",
+      "label": "SEBI & Listing",
+      "shortLabel": "SEBI & Listing",
+      "tagline": "Capital Markets. Compliance. Confidence.",
+      "intro": "For listed companies and those seeking to list, compliance with SEBI regulations and stock exchange requirements is critical. We provide end-to-end support for SEBI filings, continuous disclosure obligations, and listing-related compliance.",
+      "sections": [
+        {
+          "heading": "Listing Compliance (LODR)",
+          "items": [
+            "Quarterly & annual financial results submission",
+            "Corporate Governance Report (Regulation 27)",
+            "Shareholding Pattern Filing (Regulation 31)",
+            "Statement of Investor Complaints",
+            "Reconciliation of Share Capital Audit (RSCA)",
+            "Related Party Disclosures & Compliance",
+            "Board Composition & Committee Compliance"
+          ]
+        },
+        {
+          "heading": "SEBI Filings & Transactions",
+          "items": [
+            "Takeover Code (SEBI SAST) compliance and filings",
+            "Insider Trading Code drafting & management",
+            "Open Offer filings and coordination",
+            "Preferential Allotment compliance (Regulation 164)",
+            "Rights Issue, QIP & FPO secretarial support",
+            "Buy-back compliance under SEBI regulations"
+          ]
+        },
+        {
+          "heading": "IPO & Listing Advisory",
+          "items": [
+            "Pre-IPO secretarial due diligence",
+            "Coordination with SEBI, stock exchanges and registrars",
+            "Drafting of DRHP secretarial chapter",
+            "SME listing compliance support",
+            "Post-listing compliance framework setup"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "applications-approval",
+      "icon": "FileCheck",
+      "label": "Applications & Approval",
+      "shortLabel": "Applications & Approvals",
+      "tagline": "Navigate Regulations. Secure Approvals.",
+      "intro": "Dealing with government bodies and regulatory authorities requires precision, documentation expertise, and procedural knowledge. We handle all corporate applications and approval processes on your behalf.",
+      "sections": [
+        {
+          "heading": "MCA / ROC Applications",
+          "items": [
+            "Name change applications (INC-24)",
+            "Conversion of entity type",
+            "Extension of AGM (GNL-1)",
+            "Condonation of delay applications",
+            "Compounding of offences (E-Form GNL-1 / manual)",
+            "DIN reactivation & surrender",
+            "NCLT petitions for company law matters"
+          ]
+        },
+        {
+          "heading": "Government & Statutory Bodies",
+          "items": [
+            "RBI approval for investments & transactions (where applicable)",
+            "Sectoral regulatory approvals (SEBI, IRDAI, RBI, etc.)",
+            "Environmental & labour clearances coordination",
+            "Startup India recognition filings",
+            "Government e-marketplace (GeM) registrations"
+          ]
+        },
+        {
+          "heading": "Other Approvals",
+          "items": [
+            "Court & Tribunal petitions coordination",
+            "Arbitration support documentation",
+            "NCLT / NCLAT appearances (coordination)",
+            "Liaison with ROC, Regional Director and MCA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foreign-exchange",
+      "icon": "Globe",
+      "label": "Foreign Exchange Management",
+      "shortLabel": "FEMA",
+      "tagline": "Cross-Border. Compliant. Connected.",
+      "intro": "Foreign investments, overseas transactions, and cross-border corporate structures are governed by FEMA and RBI regulations. We provide expert advisory and compliance support for all foreign exchange related matters.",
+      "sections": [
+        {
+          "heading": "Inbound Investment Compliance",
+          "items": [
+            "FDI compliance under FEMA (Non-Debt Instruments) Rules",
+            "FC-GPR filing for foreign equity issuances",
+            "FC-TRS filing for share transfers involving non-residents",
+            "Reporting of foreign investment on FIRMS portal",
+            "Valuation compliance for FDI transactions",
+            "ECB (External Commercial Borrowings) reporting"
+          ]
+        },
+        {
+          "heading": "Outbound Investment",
+          "items": [
+            "Overseas Direct Investment (ODI) filings",
+            "Joint Venture / Wholly Owned Subsidiary abroad",
+            "Annual Performance Report (APR) filing",
+            "ODI compliance monitoring"
+          ]
+        },
+        {
+          "heading": "Other FEMA Services",
+          "items": [
+            "Compounding applications for FEMA violations",
+            "LRS (Liberalised Remittance Scheme) advisory",
+            "NRI investments - NRO/NRE/FCNR compliance",
+            "Advisory on sectoral caps and prohibited sectors",
+            "FEMA due diligence for M&A transactions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-financing",
+      "icon": "TrendingUp",
+      "label": "Project Financing",
+      "shortLabel": "Project Financing",
+      "tagline": "Structure Finance. Enable Growth.",
+      "intro": "Securing project finance requires meticulous documentation, regulatory compliance, and corporate structuring. We assist businesses in fulfilling all secretarial, legal, and compliance requirements to facilitate smooth project financing.",
+      "sections": [
+        {
+          "heading": "Secretarial Support for Financing",
+          "items": [
+            "Board and shareholder resolutions for loans & borrowings",
+            "Creation and registration of charges (CHG-1, CHG-9)",
+            "Modification and satisfaction of charges (CHG-1, CHG-4)",
+            "Debenture Trust Deed drafting & compliance",
+            "Non-Convertible Debenture (NCD) issuance support",
+            "Inter-corporate loan & deposit compliance (Section 186/73)"
+          ]
+        },
+        {
+          "heading": "Regulatory Filings",
+          "items": [
+            "Drafting Resolutions for exercising borrowing powers",
+            "RBI reporting for ECBs and structured debt",
+            "SEBI compliance for listed debt instruments",
+            "Debenture Redemption Reserve (DRR) compliance",
+            "Creation of escrow structures (documentation support)"
+          ]
+        },
+        {
+          "heading": "Due Diligence & Advisory",
+          "items": [
+            "Secretarial due diligence for lenders",
+            "Compliance certificates required by banks/NBFCs",
+            "Coordination with legal counsel and financial advisors",
+            "Project-specific SPV incorporation",
+            "Post-disbursement compliance monitoring"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "closure-business",
+      "icon": "XCircle",
+      "label": "Closure Of Business",
+      "shortLabel": "Business Closure",
+      "tagline": "Exit Cleanly. Move Forward.",
+      "intro": "Closing a business requires navigating multiple regulatory processes to ensure no pending liabilities, proper distribution of assets, and clean deregistration. We manage the complete closure process efficiently and compliantly.",
+      "sections": [
+        {
+          "heading": "Voluntary Strike-Off (Fast Track)",
+          "items": [
+            "Eligibility assessment under Section 248",
+            "Preparation of STK-2 application and affidavits",
+            "NOC from banks, creditors and tax authorities",
+            "Filing with ROC and follow-up till gazette notification",
+            "Handling ROC queries and objections"
+          ]
+        },
+        {
+          "heading": "Winding Up",
+          "items": [
+            "Voluntary Winding Up under Companies Act 2013",
+            "Liquidator appointment and compliance",
+            "Statement of Affairs preparation",
+            "Creditor meeting facilitation",
+            "NCLT petition for winding up (coordination)",
+            "Final accounts and distribution of assets"
+          ]
+        },
+        {
+          "heading": "LLP & Other Entity Closure",
+          "items": [
+            "LLP strike-off (Form 24)",
+            "LLP winding up process",
+            "OPC / Section 8 company closure",
+            "Cancellation of GST, PAN, and other registrations",
+            "Post-closure statutory record maintenance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mutual-fund",
+      "icon": "PiggyBank",
+      "label": "Mutual Fund Services",
+      "shortLabel": "Mutual Funds",
+      "tagline": "Plan. Invest. Grow.",
+      "intro": "Mutual funds provide a structured and diversified route to wealth creation. We assist clients in selecting, managing, and optimizing mutual fund investments aligned with their financial goals, risk appetite, and time horizon.",
+      "sections": [
+        {
+          "heading": "Investment & Advisory",
+          "items": [
+            "Risk profiling and goal-based financial planning",
+            "Selection of mutual fund schemes (Equity, Debt, Hybrid, ELSS)",
+            "SIP (Systematic Investment Plan) and lump sum investment guidance",
+            "Portfolio diversification strategies",
+            "Tax-saving investment planning"
+          ]
+        },
+        {
+          "heading": "Portfolio Management & Compliance",
+          "items": [
+            "Portfolio review, monitoring, and rebalancing",
+            "Performance tracking and reporting",
+            "KYC and FATCA compliance support",
+            "Documentation, account setup, and regulatory compliance",
+            "Capital gains tracking and tax-efficient structuring"
+          ]
+        },
+        {
+          "heading": "Redemption & Investor Support",
+          "items": [
+            "Redemption, withdrawal, and SWP setup",
+            "Fund switching and exit strategy advisory",
+            "Dividend payout and reinvestment guidance",
+            "Nomination and transmission support",
+            "Coordination with AMCs / RTAs and grievance handling"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ipr",
+      "icon": "ShieldCheck",
+      "label": "Intellectual Property Rights (IPR)",
+      "shortLabel": "IPR",
+      "tagline": "Protect. Secure. Monetize.",
+      "intro": "Intellectual Property Rights (IPR) safeguard your innovations, brand identity, and creative assets. We provide end-to-end support for registration, protection, and enforcement of intellectual property, ensuring your rights are legally secured and commercially leveraged.",
+      "sections": [
+        {
+          "heading": "Registration & Advisory",
+          "items": [
+            "Trademark search, filing, and registration",
+            "Copyright registration for creative works",
+            "Patent filing support and documentation coordination",
+            "Design registration and protection",
+            "IP strategy and portfolio advisory",
+            "Brand name and logo protection guidance"
+          ]
+        },
+        {
+          "heading": "Compliance & Portfolio Management",
+          "items": [
+            "Trademark objections and opposition handling",
+            "Renewal and maintenance of IP rights",
+            "IP portfolio tracking and management",
+            "Assignment, licensing, and transfer documentation",
+            "Due diligence and IP audit support",
+            "Compliance with applicable IP laws and regulations"
+          ]
+        },
+        {
+          "heading": "Enforcement & Legal Support",
+          "items": [
+            "Infringement analysis and advisory",
+            "Drafting cease & desist notices",
+            "Support in dispute resolution and litigation coordination",
+            "Representation support before IP authorities",
+            "Anti-counterfeiting and brand protection strategies",
+            "Advisory on commercialization and monetization of IP"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "other-services",
+      "icon": "Briefcase",
+      "label": "Other Varied Services",
+      "shortLabel": "Other Services",
+      "tagline": "Beyond the Ordinary.",
+      "intro": "Beyond our core offerings, we provide a range of specialised and customised professional services to cater to the evolving and unique needs of our clients across industries.",
+      "sections": [
+        {
+          "heading": "Documentation & Drafting",
+          "items": [
+            "Shareholders' Agreement (SHA) & Share Purchase Agreement (SPA) drafting",
+            "Joint Venture Agreement drafting",
+            "Non-Disclosure & Confidentiality Agreements",
+            "Employment contracts and HR policy manuals",
+            "Franchise and licensing agreements",
+            "Vendor and service contracts"
+          ]
+        },
+        {
+          "heading": "Registrations & Licenses",
+          "items": [
+            "MSME / Udyam Registration",
+            "Startup India Registration",
+            "Import Export Code (IEC) registration",
+            "FSSAI License",
+            "Shops & Establishment Act registration",
+            "Professional Tax registration",
+            "Labour law registrations (PF, ESIC, PT)",
+            "GST Registrations",
+            "Legal Entity Identifier (LEI) Registration"
+          ]
+        },
+        {
+          "heading": "Advisory & Support",
+          "items": [
+            "Corporate training on compliance & governance",
+            "Virtual Company Secretary retainer services",
+            "ESG compliance and reporting advisory",
+            "Whistleblower mechanism setup",
+            "POSH Compliance"
+          ]
+        }
+      ]
+    }
+  ]
+}
