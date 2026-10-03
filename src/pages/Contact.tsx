@@ -334,8 +334,9 @@ const Contact = () => {
               <div className="space-y-5">
                 {[
                   { icon: Mail, text: "info@lksc.in" },
-                  { icon: Phone, text: "+91 98333 41840" },
-                  { icon: Phone, text: "+91 97027 55740" },
+                  { icon: Phone, text: "+91 8928147828" },
+                  { icon: Phone, text: "+91 9833341840" },
+                  { icon: Phone, text: "+91 9702755740" },
                   { icon: MapPin, text: "Office No. 302, Kateeleshwari Arcade, LBS Road, Near Mulund Check Naka, Mulund West, Mumbai - 400080" },
                 ].map((item) => (
                   <div key={item.text} className="flex items-start gap-4">
