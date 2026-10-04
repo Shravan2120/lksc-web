@@ -97,7 +97,7 @@ const Hero = () => {
           className="max-w-3xl lg:max-w-4xl"
         >
           <p className="text-accent font-body text-sm tracking-[0.25em] uppercase mb-4">
-            Company Secretarial Services
+           LKSC &amp; Associates LLP • Company Secretarial Services
           </p>
 
 <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-bold text-primary-foreground leading-tight mb-6">
@@ -115,11 +115,12 @@ const Hero = () => {
   </span>
 </h1>
 
-          <p className="font-body text-primary-foreground/70 text-lg md:text-xl leading-relaxed mb-8 max-w-xl">
-            LKSC &amp; Associates LLP delivers expert company secretarial,
-            compliance, and advisory services to help businesses thrive within
-            regulatory frameworks.
-          </p>
+<p className="font-body text-primary-foreground/70 text-lg md:text-xl leading-relaxed mb-8 max-w-xl">
+  LKSC &amp; Associates LLP provides expert company secretarial,
+  corporate compliance, company law, and advisory services to help
+  businesses navigate regulatory requirements and maintain strong
+  corporate governance.
+</p>
 
           <div className="flex flex-wrap gap-4">
             <Link
