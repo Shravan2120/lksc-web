@@ -1,73 +1,120 @@
-# React + TypeScript + Vite
+# LKSC & Associates LLP — Official Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Official website for **LKSC & Associates LLP**, providing company secretarial, corporate compliance, corporate law, and advisory services across India.
 
-Currently, two official plugins are available:
+🌐 **Live Website:** https://lksc.in/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is the official website of **LKSC & Associates LLP**.
 
-## Expanding the ESLint configuration
+The website is designed to present the firm's services, expertise, founders, contact information, and corporate advisory capabilities through a modern, responsive, and professional interface.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+The application is built as a React-based single-page application and deployed using **Cloudflare Workers**.
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+---
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## Features
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+- Responsive design for desktop, tablet, and mobile
+- Modern corporate UI
+- Animated hero section
+- Company services and expertise section
+- Founders / leadership section
+- Contact form
+- Google reCAPTCHA protection
+- Email notifications through Resend
+- SEO optimized metadata
+- Canonical URL configuration
+- Open Graph and Twitter metadata
+- Organization structured data using JSON-LD
+- XML sitemap
+- Robots.txt
+- Custom favicon
+- Optimized hero image loading
+- HTTPS-enabled production deployment
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+---
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Services
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+The website highlights the firm's expertise across areas including:
+
+- Corporate Governance
+- Business Formation
+- Statutory Compliance
+- Capital Markets Advisory
+- Business Transformation
+- Cross-Border Transactions
+- Audit & Taxation
+- Debt Resolution
+- Project Financing
+- Business Transitions
+- Company Law Services
+- Regulatory Advisory
+
+---
+
+## Technology Stack
+
+### Frontend
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Framer Motion
+- React Router
+
+### Icons
+
+- Lucide React
+- React Icons
+
+### Backend / Services
+
+- Cloudflare Workers
+- Resend
+- Google reCAPTCHA
+
+### Deployment
+
+- GitHub
+- Cloudflare Workers Builds
+- Cloudflare DNS
+
+---
+
+## Project Structure
+
+```text
+LKSC-web/
+│
+├── public/
+│   ├── favicon.svg
+│   ├── lksc-favicon.svg
+│   ├── cs-logo.png
+│   ├── cs-logo2.png
+│   ├── hero-bg.webp
+│   ├── preview.png
+│   ├── preview1.png
+│   ├── robots.txt
+│   └── sitemap.xml
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── lib/
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── index.css
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── tailwind.config.*
+├── vite.config.*
+└── README.md
