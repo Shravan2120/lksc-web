@@ -4,6 +4,7 @@ import { lazy, Suspense } from "react";
 import ScrollToTop from "./components/ScrollToTop";
 import Navbar from "./components/navbar";
 import Footer from "./components/footer";
+import WhatsAppButton from "./components/WhatsAppButton";
 import Home from "./pages/Home";
 /* 🔥 Lazy Imports */
 const About = lazy(() => import("./pages/About"));
@@ -47,6 +48,7 @@ function App() {
       </main>
 
       <Footer />
+      <WhatsAppButton />
     </BrowserRouter>
   );
 }
